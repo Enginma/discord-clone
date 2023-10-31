@@ -8,3 +8,4 @@ Livekit is used as audio/video service.
 
 Link below will take you to the project! (Spoiler: need a Google account to log in.)
 https://ian-discord-chat-app.up.railway.app/
+[![discord-Clone-PNG.jpg](https://i.postimg.cc/9z5jWHG2/discord-Clone-PNG.jpg)](https://postimg.cc/5Q3r3G7K)
